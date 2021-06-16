@@ -12,5 +12,5 @@ int main()
    c = a + b;
    cout <<"Sum of the numbers: " << c << endl;
    
-   return 0;
+   return 0;//
 }
